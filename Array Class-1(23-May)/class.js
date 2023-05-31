@@ -123,4 +123,5 @@ const findKthLargest = function(nums, k) {
     // console.log(nums[k-1]);
 }
 
-findKthLargest([23, 45,63, 1, 89, 44], 2)
+findKthLargest([23, 45,63, 1, 89, 44], 2);
+
